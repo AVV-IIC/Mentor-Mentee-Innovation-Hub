@@ -1,2 +1,2 @@
-# Mentor-Mentee-Innovation-Hub
+# Mentor-Mentee Innovation Hub
 IIC's Mentor-Mentee Innovation Hub
